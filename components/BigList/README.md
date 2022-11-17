@@ -1,0 +1,1 @@
+This is an example of a component/folder structure, as well as a dependant component (BigListItem) that will only ever be called but this component - think of it like a private function of a class!

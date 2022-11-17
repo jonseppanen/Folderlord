@@ -1,0 +1,1 @@
+This is an example of a component with a supporting function in the utils folder.
