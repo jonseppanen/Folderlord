@@ -1,0 +1,1 @@
+Here is where your store your app constants that get used in multiple places - e.g. color themes, org names, etc.
